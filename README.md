@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Olist Marketing Funnel & Conversion Analysis
+# Olist Marketing Funnel & Conversion Analysis
 ### Future Interns - Data Science & Analytics · Task 3
 
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)

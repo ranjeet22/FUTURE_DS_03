@@ -12,7 +12,7 @@
 
 <br/>
 
-> **Analysed 842 real closed deals from Olist's e-commerce marketplace to uncover which segments, channels, and seller profiles drive the most conversions — and where the funnel breaks down.**
+> **Analysed 842 real closed deals from Olist's e-commerce marketplace to uncover which segments, channels, and seller profiles drive the most conversions - and where the funnel breaks down.**
 
 <br/>
 
